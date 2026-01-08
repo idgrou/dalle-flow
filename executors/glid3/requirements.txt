@@ -2,3 +2,4 @@ jina==3.12.0
 docarray==0.19.1
 
 dalle_pytorch
+aiohttp>=3.13.3 # not directly required, pinned by Snyk to avoid a vulnerability
